@@ -1,6 +1,6 @@
 title: Novastonevn Project Academy
 description: Dedicated to in-depth industry analysis, How-To guides, and Daily Slab extended readings.
-remote_theme: pages-themes/minima@v2.5.1
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
