@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div style="margin-top: 2rem; margin-bottom: 3rem;">
-  <h1 style="font-size: 2.5em; font-weight: bold; letter-spacing: -1px;">Novastone Project Academy</h1>
+  <h1 style="font-size: 2.5em; font-weight: bold; letter-spacing: -1px;">Novastone Vietnam Project Academy</h1>
   <p style="font-size: 1.2em; color: #555; line-height: 1.6;">
     Expert Insights for Premium Quartz Surfaces & Engineering. <br>
     <span style="font-size: 0.9em; color: #777;">
