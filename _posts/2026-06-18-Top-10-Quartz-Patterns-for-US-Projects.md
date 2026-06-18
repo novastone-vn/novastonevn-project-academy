@@ -2,14 +2,14 @@
 layout: post
 title: "Top 10 Quartz Patterns for the U.S. Construction Projects"
 date: 2026-06-18 10:00:00 +0700
-categories: [TOP-10-SERIES]
+categories: [TOP-SERIES]
 ---
 
 Drawing from the latest industry insights and the specialized production capabilities of Nova Stone Quartz Vietnam, here are the top 10 quartz colors engineered to meet the demands of the U.S. commercial market.
 
 ## 1. [NV171: The Go-To Solid White](https://novastonevn.com/novadailyslab-nv171/)
 
-![Nova Stone NV171](assets/images/Quartz-Slab-NV171.jpg)
+![Nova Stone NV171](/novastonevn-project-academy/assets/images/Quartz-Slab-NV171.jpg)
 
 NV171 stands as the industry standard for large-scale commercial and multi-family projects. Its primary strength lies in its absolute neutrality, allowing developers to coordinate it with any cabinetry or flooring palette. For high-volume purchasing, solid white quartz is the most popular choice because it simplifies procurement and ensures a clean, modern aesthetic that appeals to a broad range of tenants and hotel guests.
 
