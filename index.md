@@ -13,3 +13,4 @@ Dedicated to sharing the most hardcore industry insights and best practices.
 * Why: Deep Dives
 * Competitor Comparisons (e.g., Quartz VS)
 * Hospitality Guide
+<style> .feed-subscribe { display: none !important; } </style>
