@@ -2,7 +2,7 @@
 layout: post
 title: "6 Hidden Challenges of Starting a Stone Distribution Business in the U.S."
 date: 2026-06-19 14:00:00 +0700
-categories: [Industry Insights]
+categories: [Industry-Insights]
 ---
 
 > *Lessons learned from supporting new stone distributors and fabricators.*
