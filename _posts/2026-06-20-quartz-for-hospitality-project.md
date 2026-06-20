@@ -3,7 +3,7 @@ layout: post
 title: "7 Reasons Hospitality Fabricators and Designers Choose Quartz Surfaces
 "
 date: 2026-06-20 14:00:00 +0700
-categories: [INDUSTRY-INSIGHTS]
+categories: [Industry-Insights]
 slug: "why-quartz-is-the-ultimate-surface-choice-for-hospitality-design"
 audience: [Architects, Interior Designers, Hospitality Contractors, Hotel Developers, Procurement Managers]
 keywords: [Hospitality Quartz Surfaces, Commercial Interior Design, Durable Surface Materials, Hotel Vanity Tops, Low Maintenance Quartz]
