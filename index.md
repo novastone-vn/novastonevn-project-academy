@@ -17,10 +17,10 @@ title: Home
   <h2 style="margin-top: 2rem; border-bottom: 1px solid #eee; padding-bottom: 10px; color: #333;">
     {{ category[0] | replace: "-", " " }}
   </h2>
-  <ul style="list-style-type: none; padding-left: 0;">
+ <ul style="list-style-type: none; padding-left: 0;">
     {% for post in category[1] %}
-      <li style="margin-bottom: 15px;">
-        <span style="color: #999; font-size: 0.85em; font-family: monospace; margin-right: 15px;">
+      <li style="display: flex; align-items: baseline; margin-bottom: 15px; line-height: 1.5;">
+        <span style="flex-shrink: 0; width: 120px; color: #999; font-size: 0.85em; font-family: monospace;">
           {{ post.date | date: "%b %d, %Y" }}
         </span> 
         <a href="{{ post.url | relative_url }}" style="text-decoration: none; font-size: 1.1em; color: #0056b3; font-weight: 500;">
