@@ -74,6 +74,8 @@ They realize that true profitability relies on:
 - **Communication:** Is the supplier transparent about production schedules?
 - **Availability:** Can you restock your best-sellers reliably?
 
+Last but not least- **Institutional Knowledge:** one of the most overlooked advantages of working with an experienced supplier is the knowledge accumulated through years of solving real-world problems. Every shipment, every project, and every customer challenge helps refine internal processes, communication, and contingency planning. As a result, experienced suppliers can often anticipate potential issues—or offer practical suggestions—that may save a growing business from costly trial and error.
+
 A cheap slab that arrives three weeks late or with significant color variations will ultimately cost your business more in lost trust than you saved on the purchase price.
 
 ---
