@@ -29,7 +29,7 @@ But the real question is: **Who will buy from you?**
 
 Before a single slab arrives at your warehouse, you need a strategy to reach Fabricators, Contractors, Builders, and Designers. Acquiring those first few loyal customers is critical.
 
-A successful launch requires visibility. This means actively managing local and digital channels like **Google Business Profiles, Yelp, Houzz, and LinkedIn**, as well as engaging in local networking. If your target market cannot find you, even the best slabs will sit in your warehouse.
+A successful launch requires visibility where your customers actually look for suppliers. This means building a strong Google Business Profile, investing in a search-friendly website, maintaining an active LinkedIn presence, showcasing completed projects, and participating in industry events and local business networks. If fabricators, contractors, and designers can't find your company when they're evaluating suppliers, even the best slabs may remain in your warehouse.
 
 ---
 
