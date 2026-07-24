@@ -2,7 +2,7 @@
 layout: post
 title: "Why Consistent Supply Matters More Than Lowest Price: A Supply Chain Perspective for Multifamily & Hospitality Projects"
 date: 2026-07-01 10:00:00 +0700
-categories: [Yield-Optimization]
+categories: [Margin-Enhancement]
 slug: "consistent-supply-vs-lowest-price-multifamily-hospitality"
 audience: [Procurement Teams, General Contractors, Supply Chain Managers, Developers]
 keywords: [Supply Chain Management, Material Procurement, Quartz Yield Optimization, Construction Delays, Multifamily Development]
