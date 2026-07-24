@@ -2,7 +2,7 @@
 layout: post
 title: "The Hidden Geometry of Hospitality FF&E: How Quartz Patterns Impact Your Commercial Project Budget"
 date: 2026-06-26 16:45:00 +0700
-categories: [Yield-Optimization]
+categories: [Margin-Enhancement]
 slug: "hidden-geometry-hospitality-ffe-quartz-patterns-budget"
 audience: [Hospitality Developers, Procurement Managers, FF&E Specifiers, Interior Designers]
 keywords: [Hospitality FF&E, Quartz Cut-to-Size Yield, Commercial Procurement, Calacatta Quartz, Design for Manufacturing, DFM]
