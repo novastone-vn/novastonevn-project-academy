@@ -2,7 +2,7 @@
 layout: post
 title: "Why Quartz Countertops are the Guarantee for Long-Term Rental ROI"
 date: 2026-06-19 16:00:00 +0700
-categories: [Yield-Optimization]
+categories: [Margin-Enhancement]
 ---
 
 > *A Comparison of Long-Term Maintenance Costs with Other Surfaces for Multifamily Properties.*
