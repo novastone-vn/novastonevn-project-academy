@@ -2,7 +2,7 @@
 layout: post
 title: "Why Standard Slab Sizes Aren't Always the Most Cost-Effective Choice"
 date: 2026-06-19 11:00:00 +0700
-categories: [Yield-Optimization]
+categories: [Margin-Enhancement]
 slug: "why-standard-slab-sizes-arent-always-the-most-cost-effective-choice"
 audience: [Fabricators, Estimators, Purchasing Managers, Commercial Project Teams]
 keywords: [Quartz Yield Optimization, Material Planning, Commercial Quartz Projects, Custom Slab Dimensions, Material Waste Reduction]
